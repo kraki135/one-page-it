@@ -239,9 +239,9 @@ button a {
 
 .media {
       position: absolute;
-      top: 38%;
+      top: 30%;
       z-index: 1;
-      right: 6%
+      right: 9%
 }
 
 .media ul {
